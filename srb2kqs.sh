@@ -32,7 +32,7 @@ sudo apt-get update
 echo -e "${color}Installing dependencies needed for compiling SRB2Kart...${nc}"
 sudo apt-get -y install build-essential git p7zip-full p7zip-rar nasm libpng-dev zlib1g-dev libsdl2-dev libsdl2-mixer-dev libgme-dev libopenmpt-dev libcurl4-openssl-dev
 echo -e "${color}Cloning the most recent version of SRB2Kart...${nc}"
-git clone https://git.do.srb2.org/KartKrew/Kart-Public.git
+git clone https://github.com/TetraKanyx/Kart-Public
 cd Kart-Public
 cd src
 echo -e "${color}Compiling, this may take a while.${nc}"
