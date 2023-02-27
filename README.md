@@ -11,7 +11,7 @@ May prove useful in getting a SRB2Kart server up and running on a *VPS* a bit fa
 ## Usage
 Use **wget** to grab the script directly.
 
-    wget https://raw.githubusercontent.com/TheOneGoofAli/srb2kquickstart/main/srb2kqs.sh
+    wget https://raw.githubusercontent.com/TetraKanyx/srb2kquickstartTMM/main/srb2kqs.sh
 If you want to download & start the script in one go, use 
 
-    bash <(wget -qO- https://raw.githubusercontent.com/TheOneGoofAli/srb2kquickstart/main/srb2kqs.sh)
+    bash <(wget -qO- https://raw.githubusercontent.com/TetraKanyx/srb2kquickstartTMM/main/srb2kqs.sh)
